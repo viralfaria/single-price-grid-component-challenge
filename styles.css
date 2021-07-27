@@ -90,7 +90,7 @@ button{
   font-family: 'Karla', sans-serif;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   .section {
     display: flex;
     flex-direction: column;
